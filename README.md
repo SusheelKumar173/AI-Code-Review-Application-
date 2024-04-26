@@ -1,7 +1,7 @@
 # Code Analysis and Optimization Pipeline
 
 ## Overview
-This repository contains the implementation of a pipeline for analyzing and optimizing code using Amazon Web Services (AWS) and Anthropic Model. The pipeline allows users to upload their code files or provide GitHub URLs, which are then processed and analyzed for debugging and optimization.
+This repository contains the implementation of a pipeline for analyzing and optimizing code using Amazon Web Services (AWS) and Anthropic Model. The pipeline allows users to upload their code files or provide GitHub URLs, which are then processed and analyzed for debugging and optimization.Our Solution generates comprehensive code analysis reports. Leveraging AI-driven analysis, it offers actionable recommendations for enhancing code efficiency and maintainability
 
 ## Flow Description
 
