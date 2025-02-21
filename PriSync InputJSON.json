@@ -1,0 +1,159 @@
+{
+  "Source": "Spectrum",
+  "BusinessSegment": "CEND Mobile",
+  "PolicyReference": "AKZ159498K22",
+  "Insured": "OIL TANKING",
+  "InsuredCountryCode": "DE",
+  "Obligor": "OBLIGOR01",
+  "RiskInceptionDate": "2019-12-15",
+  "RiskExpiryDate": "2024-12-15",
+  "PolicyCurrencyCode": "USD",
+  "YoA": 2022,
+  "EstimatedShare": 0.1284,
+  "ActualBrokerage": 0.225,
+  "ActualAnnualRate": 0.025,
+  "ActualPremiumFromLatestEPI": 100000,
+  "ScaleDownModelPremium": "Yes",
+  "Exposure": [
+    {
+      "CoverageCountry": [
+        {
+          "CoverageCountryID": 1,
+          "CoverageCountryCode": "BR",
+          "CoverageIndustry": "Petrochemicals Industry",
+          "SupplyChainImpact": "High",
+          "Excess": 0,
+          "Limit": 20000000,
+          "IncludeFirstLossCurve": "Yes",
+          "Coverage": [
+            {
+              "CoverageCategory": "Main",
+              "PolicyCoverage": "CEN Mobile",
+              "SubjectMatter": "High Priority",
+              "PolicyExposure": 20000000
+            }
+          ]
+        },
+        {
+          "CoverageCountryID": 2,
+          "CoverageCountryCode": "CO",
+          "CoverageIndustry": "Petrochemicals Industry",
+          "SupplyChainImpact": "High",
+          "Excess": 0,
+          "Limit": 40000000,
+          "IncludeFirstLossCurve": "Yes",
+          "Coverage": [
+            {
+              "CoverageCategory": "Main",
+              "PolicyCoverage": "CEN Mobile",
+              "SubjectMatter": "High Priority",
+              "PolicyExposure": 40000000
+            }
+          ]
+        },
+        {
+          "CoverageCountryID": 3,
+          "CoverageCountryCode": "ID",
+          "CoverageIndustry": "Petrochemicals Industry",
+          "SupplyChainImpact": "High",
+          "Excess": 0,
+          "Limit": 200000000,
+          "IncludeFirstLossCurve": "Yes",
+          "Coverage": [
+            {
+              "CoverageCategory": "Main",
+              "PolicyCoverage": "CEN Mobile",
+              "SubjectMatter": "High Priority",
+              "PolicyExposure": 200000000
+            }
+          ]
+        },
+        {
+          "CoverageCountryID": 4,
+          "CoverageCountryCode": "MZ",
+          "CoverageIndustry": "Petrochemicals Industry",
+          "SupplyChainImpact": "High",
+          "Excess": 0,
+          "Limit": 63000000,
+          "IncludeFirstLossCurve": "Yes",
+          "Coverage": [
+            {
+              "CoverageCategory": "Main",
+              "PolicyCoverage": "CEN Mobile",
+              "SubjectMatter": "High Priority",
+              "PolicyExposure": 63000000
+            }
+          ]
+        },
+        {
+          "CoverageCountryID": 5,
+          "CoverageCountryCode": "PA",
+          "CoverageIndustry": "Petrochemicals Industry",
+          "SupplyChainImpact": "High",
+          "Excess": 0,
+          "Limit": 25000000,
+          "IncludeFirstLossCurve": "Yes",
+          "Coverage": [
+            {
+              "CoverageCategory": "Main",
+              "PolicyCoverage": "CEN Mobile",
+              "SubjectMatter": "High Priority",
+              "PolicyExposure": 25000000
+            }
+          ]
+        },
+        {
+          "CoverageCountryID": 6,
+          "CoverageCountryCode": "PE",
+          "CoverageIndustry": "Petrochemicals Industry",
+          "SupplyChainImpact": "High",
+          "Excess": 0,
+          "Limit": 7000000,
+          "IncludeFirstLossCurve": "Yes",
+          "Coverage": [
+            {
+              "CoverageCategory": "Main",
+              "PolicyCoverage": "CEN Mobile",
+              "SubjectMatter": "High Priority",
+              "PolicyExposure": 7000000
+            }
+          ]
+        },
+        {
+          "CoverageCountryID": 7,
+          "CoverageCountryCode": "ZA",
+          "CoverageIndustry": "Petrochemicals Industry",
+          "SupplyChainImpact": "High",
+          "Excess": 0,
+          "Limit": 95000000,
+          "IncludeFirstLossCurve": "Yes",
+          "Coverage": [
+            {
+              "CoverageCategory": "Main",
+              "PolicyCoverage": "CEN Mobile",
+              "SubjectMatter": "High Priority",
+              "PolicyExposure": 95000000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "AdditionalDetails": {
+    "InsuredHistory": "10 years good experience",
+    "InsuredExperienceWithRiskType": "Good and extensive",
+    "TandCimpact": "Good"
+  },
+  "CENDMob_AdditionalDetails": {
+    "StorageArrangements": "Neutral",
+    "CollateralManagementAgreement": "Neutral"
+  },
+  "CENDInv_AdditionalDetails": {
+  },
+  "ContractFrustration_AdditionalDetails": {
+  },
+  "Repossession_AdditionalDetails": {
+  },
+  "Credit_AdditionalDetails": {
+  }
+}
