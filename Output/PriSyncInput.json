@@ -1,0 +1,104 @@
+{
+  "Debug": "True",
+  "Source": "Spectrum",
+  "Currency": "BSD",
+  "InceptionDate": "2023-04-21",
+  "ExpiryDate": "2024-04-20",
+  "SubClass": "Cash in Transit",
+  "Brokerage": 0.2,
+  "NCB": 0.4,
+  "LTA": 0.1,
+  "OtherDeds": 0.0572,
+  "CashInTransit_Details": [
+    {
+      "PolicyReference": "Policy62",
+      "TypeofClient": "Armoured Car Companies",
+      "RoutineCommercialAssetType": "Bullion",
+      "RoutineCommercialExposure": 100000,
+      "RoutineCommercialLimit": 2000000,
+      "RoutineCommercialAttachment": 10000,
+      "RoutineBankAssetType": "Bullion",
+      "RoutineBankExposure": 100000,
+      "RoutineBankLimit": 2000000,
+      "RoutineBankAttachment": 10000,
+      "SecureBankAssetType": "Bullion",
+      "SecureBankExposure": 100000,
+      "SecureBankLimit": 2000000,
+      "SecureBankAttachment": 1000,
+      "AirAssetType": "Bullion",
+      "AirExposure": 100000,
+      "AirLimit": 2000000,
+      "AirAttachment": 1000,
+      "MarineAssetType": "Bullion",
+      "MarineExposure": 100000,
+      "MarineLimit": 2000000,
+      "MarineAttachment": 1000,
+      "ContingentAssetType": "Bullion",
+      "ContingentExposure": 100000,
+      "ContingentLimit": 200000,
+      "ContingentAttachment": 1000,
+      "FidelityExposure": 100000,
+      "FidelityAdjusmenttoLossRate": -0.2,
+      "FidelityUWComments": "Comments..",
+      "SpotAuditChecks": "Medium",
+      "TamperProofPackaging": "Medium",
+      "UnderwriterDiscretion": -0.4,
+      "TransitRoutes": "High",
+      "Security": "High",
+      "CATInputtedExpectedLoss": 100000,
+      "TalbotShare": 0.1,
+      "ActualGGWP": 100000,
+      "UnderwritingComments": "Comments..",
+      "LossExperienceModifier": 2,
+      "Premise": [
+        {
+          "PremiseLocation": "MW",
+          "PremiseLocationADAInd": "1",
+          "PremiseLocationGroup": "Loc 33",
+          "PremiseTypeofAsset": "Cash",
+          "PremiseStockType": "Bullion",
+          "PremiseExposure": 100033,
+          "PremiseAttachment": 1000,
+          "PremiseLimit": 2000033
+        },
+        {
+          "PremiseLocation": "MV",
+          "PremiseLocationADAInd": "1",
+          "PremiseLocationGroup": "Loc 34",
+          "PremiseTypeofAsset": "Coin",
+          "PremiseStockType": "Other Valuables",
+          "PremiseExposure": 100034,
+          "PremiseAttachment": 1000,
+          "PremiseLimit": 2000034
+        },
+        {
+          "PremiseLocation": "ML",
+          "PremiseLocationADAInd": "1",
+          "PremiseLocationGroup": "Loc 35",
+          "PremiseTypeofAsset": "Cash",
+          "PremiseStockType": "Dore",
+          "PremiseExposure": 100035,
+          "PremiseAttachment": 1000,
+          "PremiseLimit": 2000035
+        },
+        {
+          "PremiseLocation": "MH",
+          "PremiseLocationADAInd": "1",
+          "PremiseLocationGroup": "Loc 36",
+          "PremiseTypeofAsset": "Coin",
+          "PremiseStockType": "Concentrate",
+          "PremiseExposure": 100036,
+          "PremiseAttachment": 1000,
+          "PremiseLimit": 2000036
+        }
+      ],
+      "ATMs": [
+        {
+          "ATMNoOfMachines": 2,
+          "ATMCashPerMachine": 100062,
+          "ATMDamagePerMachine": 100062
+        }
+      ]
+    }
+  ]
+}
